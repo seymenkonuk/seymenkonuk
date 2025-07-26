@@ -16,13 +16,13 @@
 
 <p align="left">
     <a href="https://github.com/seymenkonuk" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
+        <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" style="margin-right: 4px; height: 28px">
     </a>
     <a href="https://www.linkedin.com/in/recepseymenkonuk" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" style="margin-right: 4px; height: 28px">
     </a>
     <a href="mailto:konukrecepseymen@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 4px; height: 28px">
     </a>
 </p>
 
