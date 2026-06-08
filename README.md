@@ -27,13 +27,12 @@
 </p>
 
 
-**<h3 align="left">🚀 Yazılım geliştirmeyi seviyorum ve güvenlik, otomasyon, gömülü sistemler gibi alanlarda projeler yaparak kendimi geliştiriyorum.</h3>**
+**<h3 align="left">Hakkında</h3>**
 
-**<h3 align="left">Hızlı Sorular</h3>**
-
-- 💬 Bana şunları sorabilirsiniz: **💡 JavaScript, Python, C, PHP, veri yapıları, güvenlik, şifreleme, RESTful API ve daha fazlası!**
-- ⚡ İlginç bir bilgi: **🎮 ESP32 kullanarak taşınabilir bir oyun konsolu yaptım!**
-- 📂 Portföy: **[https://seymenkonuk.github.io](https://seymenkonuk.github.io)**
+Bilgisayar ve Öğretim Teknolojileri alanında lisans eğitimini yüksek başarı derecesiyle tamamlayan, backend geliştirme, gömülü
+sistemler, güvenlik ve eğitim teknolojileri alanlarında projeler üreten yazılım geliştirici. PHP, C/C++, Python ve Linux
+tabanlı sistemlerde deneyim sahibi; Docker, MQTT, OTA ve modern web teknolojileri kullanarak ölçeklenebilir uygulamalar
+geliştirmektedir.
 
 **<h3 align="left">Yeteneklerim</h3>**
 
