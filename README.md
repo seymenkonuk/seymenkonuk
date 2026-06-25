@@ -1,40 +1,18 @@
-![👋 Merhaba, ben Recep Seymen Konuk](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=seymenkonuk&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Merhaba, ben Recep Seymen Konuk
-      </h1>
-    </summary>
-  </ul>
-</div>
+# Merhaba, ben Recep Seymen Konuk 👋
 
-**<h3 align="left">Benimle iletişime geçin:</h3>** 
+Bilgisayar ve Öğretim Teknolojileri Öğretmenliği mezunu bir yazılım geliştiricisiyim.
 
-<p align="left">
-    <a href="https://github.com/seymenkonuk" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" style="margin-right: 4px; height: 28px">
-    </a>
-    <a href="https://www.linkedin.com/in/recepseymenkonuk" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" style="margin-right: 4px; height: 28px">
-    </a>
-    <a href="mailto:konukrecepseymen@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 4px; height: 28px">
-    </a>
-</p>
+Web, backend ve gömülü sistemler alanlarında projeler geliştiriyorum. Özellikle PHP, MySQL, Redis, Docker ve Linux teknolojileriyle çalışıyor; backend mimarileri, framework geliştirme ve sistem tasarımı üzerine yoğunlaşıyorum.
 
+Kendi PHP frameworkümü, doğrulama kütüphanemi, video paylaşım platformumu ve ESP32 tabanlı taşınabilir uygulama platformumu geliştiriyorum.
 
-**<h3 align="left">Hakkında</h3>**
+Yazılım geliştirmeyi yalnızca uygulama üretmek olarak değil, aynı zamanda yeniden kullanılabilir araçlar, altyapılar ve platformlar tasarlamak olarak görüyorum.
 
-Bilgisayar ve Öğretim Teknolojileri alanında lisans eğitimini yüksek başarı derecesiyle tamamlayan, backend geliştirme, gömülü
-sistemler, güvenlik ve eğitim teknolojileri alanlarında projeler üreten yazılım geliştirici. PHP, C/C++, Python ve Linux
-tabanlı sistemlerde deneyim sahibi; Docker, MQTT, OTA ve modern web teknolojileri kullanarak ölçeklenebilir uygulamalar
-geliştirmektedir.
-
-**<h3 align="left">Yeteneklerim</h3>**
+## Yeteneklerim
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" style="margin-right: 12px"/>
@@ -54,7 +32,7 @@ geliştirmektedir.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 12px"/>
 </div>
 
-**<h3 align="left">GitHub İstatistiklerim</h3>**
+## GitHub İstatistiklerim
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seymenkonuk&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&rank_icon=github" alt="GitHub stats Card" />
@@ -63,4 +41,15 @@ geliştirmektedir.
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seymenkonuk&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
+## İletişim
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/recepseymenkonuk" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" style="margin-right: 4px; height: 28px">
+    </a>
+    <a href="mailto:konukrecepseymen@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 4px; height: 28px">
+    </a>
 </p>
