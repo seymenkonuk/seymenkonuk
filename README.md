@@ -12,25 +12,51 @@ Kendi PHP frameworkümü, doğrulama kütüphanemi, video paylaşım platformumu
 
 Yazılım geliştirmeyi yalnızca uygulama üretmek olarak değil, aynı zamanda yeniden kullanılabilir araçlar, altyapılar ve platformlar tasarlamak olarak görüyorum.
 
-## Yeteneklerim
+## 💻 Programlama Dilleri
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="PHP" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="48" alt="Arduino" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="MySQL" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="48" alt="SQLite" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" alt="Docker" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48" alt="Postman" style="margin-right: 12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 12px"/>
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+## ⚙️ Backend & Veritabanı
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+
+## 🐳 DevOps & Altyapı
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 🔐 Güvenlik & Kriptografi
+
+![Şifreleme](https://img.shields.io/badge/Şifreleme-1E88E5?style=for-the-badge)
+![Hash](https://img.shields.io/badge/Hashleme-6A1B9A?style=for-the-badge)
+![TLS/mTLS](https://img.shields.io/badge/TLS%20%7C%20mTLS-00838F?style=for-the-badge)
+![PGP](https://img.shields.io/badge/PGP-424242?style=for-the-badge)
+![Diffie-Hellman](https://img.shields.io/badge/Diffie--Hellman-FF6F00?style=for-the-badge)
+
+## 🔧 Araçlar
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+## 🔌 Gömülü Sistemler
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![OTA](https://img.shields.io/badge/OTA-4CAF50?style=for-the-badge)
 
 ## GitHub İstatistiklerim
 
@@ -45,11 +71,5 @@ Yazılım geliştirmeyi yalnızca uygulama üretmek olarak değil, aynı zamanda
 
 ## İletişim
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/recepseymenkonuk" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" style="margin-right: 4px; height: 28px">
-    </a>
-    <a href="mailto:konukrecepseymen@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 4px; height: 28px">
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/recepseymenkonuk)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konukrecepseymen@gmail.com)
